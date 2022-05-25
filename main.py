@@ -8,3 +8,5 @@ def notin():
   return "lol"
 
 print(notin())
+
+a = 10
